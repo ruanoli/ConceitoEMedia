@@ -1,0 +1,16 @@
+C:\Projeto-Alunos-C#\Primeiros-Passos\bin\Debug\net5.0\Primeiros-Passos.exe
+C:\Projeto-Alunos-C#\Primeiros-Passos\bin\Debug\net5.0\Primeiros-Passos.deps.json
+C:\Projeto-Alunos-C#\Primeiros-Passos\bin\Debug\net5.0\Primeiros-Passos.runtimeconfig.json
+C:\Projeto-Alunos-C#\Primeiros-Passos\bin\Debug\net5.0\Primeiros-Passos.runtimeconfig.dev.json
+C:\Projeto-Alunos-C#\Primeiros-Passos\bin\Debug\net5.0\Primeiros-Passos.dll
+C:\Projeto-Alunos-C#\Primeiros-Passos\bin\Debug\net5.0\ref\Primeiros-Passos.dll
+C:\Projeto-Alunos-C#\Primeiros-Passos\bin\Debug\net5.0\Primeiros-Passos.pdb
+C:\Projeto-Alunos-C#\Primeiros-Passos\obj\Debug\net5.0\Primeiros-Passos.csproj.AssemblyReference.cache
+C:\Projeto-Alunos-C#\Primeiros-Passos\obj\Debug\net5.0\Primeiros-Passos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto-Alunos-C#\Primeiros-Passos\obj\Debug\net5.0\Primeiros-Passos.AssemblyInfoInputs.cache
+C:\Projeto-Alunos-C#\Primeiros-Passos\obj\Debug\net5.0\Primeiros-Passos.AssemblyInfo.cs
+C:\Projeto-Alunos-C#\Primeiros-Passos\obj\Debug\net5.0\Primeiros-Passos.csproj.CoreCompileInputs.cache
+C:\Projeto-Alunos-C#\Primeiros-Passos\obj\Debug\net5.0\Primeiros-Passos.dll
+C:\Projeto-Alunos-C#\Primeiros-Passos\obj\Debug\net5.0\ref\Primeiros-Passos.dll
+C:\Projeto-Alunos-C#\Primeiros-Passos\obj\Debug\net5.0\Primeiros-Passos.pdb
+C:\Projeto-Alunos-C#\Primeiros-Passos\obj\Debug\net5.0\Primeiros-Passos.genruntimeconfig.cache
